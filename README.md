@@ -25,5 +25,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snehakumari3&show_icons=true&locale=en" alt="snehakumari3" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snehakumari3&" alt="snehakumari3" /></p>
+
 <hr>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snehakumari3" alt="snehakumari3" /></a> </p>
