@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sneha Kumari</h1>
-<h3 align="center">A CSE sophomore who loves exploring and learning new things</h3>
+<h3 align="center">A CSE Junior who loves exploring and learning new things</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehakumari3&label=Profile%20views&color=0e75b6&style=flat" alt="snehakumari3" /> </p>
 
